@@ -8,7 +8,7 @@ This is a small project being made in Python. My goal is to create a fully-funct
 Run command prompt in the repository's folder. Type "python DOS.py" to execute the program.
 
 
-        FEATURES
+      FEATURES
 
 
 Fully-functional notepad alternative with working Save file/Open file features.
