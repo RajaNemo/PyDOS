@@ -1,3 +1,4 @@
+![DOS](https://user-images.githubusercontent.com/77996806/132526897-fbf776e7-33d7-4eef-b688-ffc23fed77f0.png)
 # PyDOS
 This is a small project being made in Python. My goal is to create a fully-functional clone of the famous MS-DOS operating system. 
 
